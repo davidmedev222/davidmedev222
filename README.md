@@ -2,11 +2,11 @@
 
 # **📌 Sobre mí**
 
-Soy creador de contenido de programación en `Tiktok` y `Youtube`.
+Soy creador de contenido de programación en **`Tiktok`** y **`Youtube`**.
 
 # **💥 ¿Qué tecnologias usas?**
 
-Uso `ReactJs` para la interfaz, `Sass` para los estilos, `Firebase` para el backend, `Git` para gestionar versiones de proyectos y `Github` para alojar los proyectos en la nube.
+Uso **`ReactJs`** para la interfaz, **`Sass`** para los estilos, **`Firebase`** para el backend, **`Git`** para gestionar versiones de proyectos y **`Github`** para alojar los proyectos en la nube.
 
 # **📲 ¿Cuáles son tu redes sociales?**
 
