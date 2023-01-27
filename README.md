@@ -1,14 +1,5 @@
 # **` 🙎‍♂️ David Mamani` | `Frontend Developer`**
 
-# **💥 ¿Qué tecnologias manejas?**
-
-- `React`
-- `Javascript / Typescript`
-- `CSS3 / SASS - Bootstrap5 - Tailwind - MaterialUI - Flowbite`
-- `HTML5`
-- `Git / Github`
-- `Firebase`
-
 # **📲 ¿Cuáles son tu redes sociales?**
 
 [![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UC2ep1LjWdoPrinsjyVO13VA)
